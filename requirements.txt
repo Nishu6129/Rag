@@ -3,6 +3,7 @@ langgraph
 langchain
 langchain-core
 langchain-openai
+langchain-google-genai
 langchain-huggingface
 langchain-text-splitters
 langchain-chroma
